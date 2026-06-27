@@ -13,3 +13,4 @@ np.exe
 *.spec
 build/
 waline*.json
+CLAUDE.md
